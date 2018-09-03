@@ -1,0 +1,10 @@
+set view (80 , 300 , 50 , 60 )
+set yrange [-1300:1300]
+set xrange [-1300:1300]
+set zrange [-600:600]
+set xlabel "X Axis"
+set ylabel "Y Axis"
+set zlabel "Z Axis"
+set mapping cartesian
+set angles degrees
+set terminal png
